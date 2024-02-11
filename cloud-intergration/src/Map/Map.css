@@ -1,0 +1,13 @@
+/* MapComponent.css */
+.map-container {
+    height: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.map-wrapper {
+    height: 80%;
+    width: 80%;
+}
